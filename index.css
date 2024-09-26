@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 35.89px;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.title {
+    width: 149px;
+    height: 36px;
+    top: 68px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+h1 {
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 126.67px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+.timer {
+    margin-top: 0px;
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background: #080001;
+    margin-bottom: 30px;
+}
+
+.points {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+}
+
+.points-btn {
+    font-family: Cursed Timer ULiL;
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    border: 2px solid #9AABD8;
+    background: none;
+    color: #9AABD8; 
+}
